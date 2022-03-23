@@ -68,7 +68,7 @@ open http://localhost:8501
 
 https://github.com/prasertcbs/basic-dataset/blob/master/netflix_titles.csv
 
-
+コードはこちらに上げています。https://github.com/SGyutan/streamlit_aggrid
 
 #### （1）スクロール、列の並べ替え、検索、フィルタリング
 
