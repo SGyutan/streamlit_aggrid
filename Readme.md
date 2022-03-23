@@ -39,9 +39,9 @@ anaconda
 streamlit、pandas、plotly、plotly_express、streamlit-aggrid
 
 ```powershell
-conda install -c conda-forge streamlit, plotly
+conda install -c conda-forge streamlit plotly
 
-pip install streamlit-aggrid, plotly_express
+pip install streamlit-aggrid plotly_express
 ```
 
 
