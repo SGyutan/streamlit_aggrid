@@ -2,7 +2,7 @@
 
 
 
-###　はじめに
+### はじめに
 
 PandasをインタラクティブにStrimlitで操作するstreamlit-aggridのモジュールの解説記事を見つけました。[StreamlitAgGridコンポーネントを使用する必要がある7つの理由](https://ichi.pro/streamlitaggrid-konpo-nento-o-shiyosuru-hitsuyo-ga-aru-7-tsu-no-riyu-50140176855792)の記事の補足説明です。
 
